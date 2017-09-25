@@ -10,6 +10,7 @@ package com.brighter.testexample.test1;
 	public String getUrl()
 	{
 		
+		System.out.println("Adding in Branch 2");
 		return driver.getCurrentUrl();
 		
 	}
