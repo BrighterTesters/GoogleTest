@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5135" started-at="2017-09-25T14:34:59Z" finished-at="2017-09-25T14:35:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5135" started-at="2017-09-25T14:34:59Z" finished-at="2017-09-25T14:35:04Z">
+      <class name="com.brighter.testexample.test1.GoogleTestCase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.brighter.testexample.test1.GoogleTestCase@6ea12c19]" name="setUp" is-config="true" duration-ms="9435" started-at="2017-09-25T10:34:49Z" finished-at="2017-09-25T10:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getToAccountForm()[pri:0, instance:com.brighter.testexample.test1.GoogleTestCase@6ea12c19]" name="getToAccountForm" duration-ms="4707" started-at="2017-09-25T10:34:59Z" finished-at="2017-09-25T10:35:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToAccountForm -->
+        <test-method status="PASS" signature="verifyForm()[pri:1, instance:com.brighter.testexample.test1.GoogleTestCase@6ea12c19]" name="verifyForm" duration-ms="216" started-at="2017-09-25T10:35:04Z" finished-at="2017-09-25T10:35:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForm -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.brighter.testexample.test1.GoogleTestCase@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="899" started-at="2017-09-25T10:35:04Z" finished-at="2017-09-25T10:35:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.brighter.testexample.test1.GoogleTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
