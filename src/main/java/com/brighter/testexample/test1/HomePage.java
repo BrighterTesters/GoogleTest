@@ -13,7 +13,7 @@ package com.brighter.testexample.test1;
 	{
 		WebDriverWait wait= new WebDriverWait(driver, 15);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.className("gb_P"))).click();
-		
+		System.out.println("Click on Gmail");
 		
 	}
 
